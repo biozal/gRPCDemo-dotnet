@@ -1,0 +1,17 @@
+{
+  "profiles": {
+    "gRPCDemo": {
+      "commandName": "Project",
+      "applicationUrl": "http://localhost:6000;https://localhost:6001",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "cbsettings_CBUsername": "Administrator",
+        "cbsettings_CBPassword": "password",
+        "cbsettings_CBConnectionString": "couchbase://localhost",
+        "cbsettings_CBBucketName": "demogame",
+        "cbsettings_CBScopeName": "_default",
+        "cbsettings_CBCollectionName": "_default"
+      }
+    }
+  }
+}

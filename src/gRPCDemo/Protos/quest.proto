@@ -1,0 +1,52 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "gRPCDemo";
+
+package quest;
+
+//the quest service definition
+//see more info:  https://docs.microsoft.com/en-us/aspnet/core/grpc/basics?view=aspnetcore-6.0
+
+service QuestService{
+    rpc GetQuests(QuestsRequest) returns (Quests); 
+    rpc GetQuest(DocumentRequest) returns (Quest);
+    rpc SetQuest(Quest) returns (SetResponse);
+}
+
+//styling guild for messages and field names
+//https://developers.google.com/protocol-buffers/docs/style
+
+//scalar/data types 
+//https://docs.microsoft.com/en-us/aspnet/core/grpc/protobuf?view=aspnetcore-6.0
+
+/* data type messages */
+message Quests {
+    repeated Quest quests = 1;
+    string execution_time = 2;
+    string elapsed_time = 3;
+}
+
+message Quest {
+    string document_id = 1;
+    string document_type = 2;
+    string name = 3;
+    string description = 4;
+    string reward_point_type = 5;
+    int64 reward_points = 6;
+    bool is_active = 7;
+}
+
+
+/* arguments/request/response */
+message QuestsRequest {
+    bool active_only = 1;
+}
+
+message DocumentRequest {
+    string document_id = 1;
+}
+
+message SetResponse {
+    bool is_error = 1;
+    string message = 2;
+}

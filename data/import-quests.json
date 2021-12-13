@@ -1,0 +1,209 @@
+[
+	{
+		"documentId": "f2a2d4b1-d968-4e5f-8f21-3894573f5e30",
+		"documentType": "quest",
+		"name": "A hunt for treasure",
+		"description": "This old treasure map has been handed down from generation to generation and now it is mine. I decided to figure out where it leads to, but I'm a little lost now. The treasure should be around here, but I can't figure out the last part of this map. Mind helping me out with this?",
+		"rewardPointType": "Gold",
+		"rewardPoints": 250,
+		"isActive": true
+	},
+	{
+		"documentId": "dd713793-01bf-4077-b776-44750468d7f4",
+		"documentType": "quest",
+		"name": "A path to retribution",
+		"description": "I don't think I can control my fury any longer, hero. My wife, they ki.. they kil.. .. Hero, please, you've got to help me. Retribution and vengeance are necessary, please unleash it upon those stinking monsters. It'll be dangerous, but I'm willing to come along if you need me to.  Hero, act swiftly when dealing with the monsters. You can take out as many of them as you like, the less of those lowlives there are in this world, the better.",
+		"rewardPointType": "XP",
+		"rewardPoints": 500,
+		"isActive": true
+	},
+	{
+		"documentId": "35806d70-3214-4e96-b648-1d014848bb4f",
+		"documentType": "quest",
+		"name": "A path to retribution",
+		"description": "I don't think I can control my fury any longer, hero. My wife, they ki.. they kil.. .. Hero, please, you've got to help me. Retribution and vengeance are necessary, please unleash it upon those stinking monsters. It'll be dangerous, but I'm willing to come along if you need me to.  Hero, act swiftly when dealing with the monsters. You can take out as many of them as you like, the less of those lowlives there are in this world, the better.",
+		"rewardPointType": "XP",
+		"rewardPoints": 500,
+		"isActive": true
+	},
+	{
+		"documentId": "54e9a1b4-cd2d-4792-9584-b6e7f200ef9c",
+		"documentType": "quest",
+		"name": "Disrupt activities",
+		"description": "I need you to keep quiet about this, but reports show an increase of enemy forces in our lands. We don't know how accurate these reports are, but I need you to find those forces and disrupt their activities. With your help we'll get rid of those stinking lowlives. I won't be able to join you, but I have full confidence in you. I know you'll succeed.  Be strong and swift when fighting the lowlives. I'm not asking you to kill all of them, just make sure you do what I ask of you.",
+		"rewardPointType": "XP",
+		"rewardPoints": 1200,
+		"isActive": true
+	},
+	{
+		"documentId": "09d912a5-f194-49f2-992e-789fd16aab57",
+		"documentType": "quest",
+		"name": "Winter is coming",
+		"description": "Winter is coming and I fear my food supplies might be too low. I got injured during a hunting trip and I still haven't recovered. Please, would you go out and do some hunting for me? 10 boars should be enough to last me long enough along with the supplies I do have.",
+		"rewardPointType": "Silver",
+		"rewardPoints": 600,
+		"isActive": true
+	},
+	{
+		"documentId": "e1fe6dbc-54a2-44cf-abe4-405fe05d3f14",
+		"documentType": "quest",
+		"name": "Greasing the cogs",
+		"description": "Everything is collapsing on us, or at least it will if we don't something about it right now! But I only have 2 hands, I can't do everything by myself. We need more power to stabilize the engines, more oil to grease the cogs and, well, I could use a drink right about now. Fetch me what I need so I can prevent this place from crumbling down upon us.",
+		"rewardPointType": "Gold",
+		"rewardPoints": 400,
+		"isActive": true
+	},
+	{
+		"documentId": "a9048ddb-472e-40cd-b764-0d6a61007387",
+		"documentType": "quest",
+		"name": "Get off my lawn",
+		"description": "I can't stand those pesky kids, they're always trying to mess with my artistic flow. Thanks to them I lost 8 pages of my art, scattered in the wind, never to be seen again. Would you mind looking for them? They blew south, but I'm afraid to go look for them, who knows what those kids will do when I leave.",
+		"rewardPointType": "Copper",
+		"rewardPoints": 50,
+		"isActive": true
+	},
+	{
+		"documentId": "de5a2ed8-8174-48a2-b7b0-5d8e3e61bcdb",
+		"documentType": "quest",
+		"name": "A needed intervention",
+		"description": "We've had a feud with a neighboring village for years and I will not deny both sides share some blame, but they have gone too far now. Last week they came in the night, killed some of our most skilled people and left. Hero, we need your help to bring justice to those vulgar fiends. It'll be dangerous, but I'm willing to come along if you need me to.  Be careful hero, don't underestimate those fiends. If you can, kill as many of them as possible. We want to live in peace and safety.",
+		"rewardPointType": "XP",
+		"rewardPoints": 250,
+		"isActive": true
+	},
+	{
+		"documentId": "4d4b8bf6-c94c-4b65-9f03-7802669defb3",
+		"documentType": "quest",
+		"name": "Somebody Save Me",
+		"description": "Justice demands retribution! In this case it requires death! Hero, a group of filthy miscreants killed some of our farmers without mercy. We will not let them go unpunished. Hero, be so kind and deal with those vicious vermin. I'll be coming along with you, at least, as long as you don't mind.  You are fully capable to handle those vermin. I'm not asking you to kill all of them, just make sure you do what I ask of you.",
+		"rewardPointType": "XP",
+		"rewardPoints": 50,
+		"isActive": true
+	},
+	{
+		"documentId": "4cea9dab-edb9-4f8b-8fd6-dd3dc66d3c62",
+		"documentType": "quest",
+		"name": "Required Skills",
+		"description": "I need you to keep quiet about this, but reports show an increase of enemy forces in our lands. We don't know how accurate these reports are, but I need you to find those forces and disrupt their activities. With your help we'll get rid of those filthy lowlives. I offer you my assistance, but it's up to you if you want me to join you or not.  Be strong and swift when fighting the lowlives. You don't have to kill them all, just make sure they'll never return.",
+		"rewardPointType": "XP",
+		"rewardPoints": 125,
+		"isActive": true
+	},
+	{
+		"documentId": "41419530-7c7b-43f4-b06b-f0f271daf978",
+		"documentType": "quest",
+		"name": "A delivery to the leaders",
+		"description": "I need you to deliver a message to our four leaders, this message could change the fate of our civilization. But remember hero, our leaders are proud, perhaps a little too proud. The order in which you'll deliver the message to them will affect their opinion of you and the way they think they're viewed by us, so choose wisely who you pick first and last.",
+		"rewardPointType": "XP",
+		"rewardPoints": 175,
+		"isActive": true
+	},
+	{
+		"documentId": "bdb94fe0-638e-4c10-8b3e-18c0524d060f",
+		"documentType": "quest",
+		"name": "Boar Attack",
+		"description": "In the middle of the night our camp was attacked by a boar. That's right, attacked! It came in, trashed the place and ran off, but not without taking half the camp with it. All our stuff is scattered throughout the forest and that beast is still out there. Hero, please help us find our stuff so we can get out of here as soon as possible. I don't want to spend another minute near that monster.",
+		"rewardPointType": "XP",
+		"rewardPoints": 300,
+		"isActive": true
+	},
+	{
+		"documentId": "12c450c5-e62b-405b-97ec-478739f61a16",
+		"documentType": "quest",
+		"name": "A hospital in search of aide",
+		"description": "We're completely overwhelmed. The war is at its peak and more and more injured come into our hospital in search of aid, but we're running low in supplies. None of us can afford to leave the injured to seek out more supplies, so we need you to do so. Please gather Peaceblossom, sea urchin needles, silkweb and honey.",
+		"rewardPointType": "XP",
+		"rewardPoints": 140,
+		"isActive": true
+	},
+	{
+		"documentId": "b2f59897-7c5d-4676-8370-9f57bd99015b",
+		"documentType": "quest",
+		"name": "Tis the season for a snowflake",
+		"description": "I need you to find me a snowflake, but it has to be a special snowflake! It'll be a gift for a very special person, so only a special snowflake will do. Take this special casing I've designed to catch the snowflake with, it'll make sure it's perfectly preserved. It snows a lot towards the top of the mountain, so it shouldn't be too difficult for you. But remember, it has to be a special snowflake!",
+		"rewardPointType": "Copper",
+		"rewardPoints": 20,
+		"isActive": true
+	},
+	{
+		"documentId": "d1f3ff7c-62b0-4bea-9c0d-105a5c97d5f8",
+		"documentType": "quest",
+		"name": "To kill a spider",
+		"description": "I want to pull a prank on my sister and I have the best idea to do so. You see, she's scared of spiders, so I want to put some spiders in her bed. Hahaha, I can't wait to see her face when she discovers them. Anyway, I need you to collect some spiders for me. Put them in this jar, I don't want to have to touch them, they're cree.. I mean, they might get away if they're not in a jar.",
+		"rewardPointType": "Copper",
+		"rewardPoints": 50,
+		"isActive": true
+	},
+	{
+		"documentId": "d2591581-c206-4e91-ba98-ed809e1088ac",
+		"documentType": "quest",
+		"name": "Slug Bug",
+		"description": "I love bugs, I love them so much I collect them and I must collect them all, I must! There's a bug I don't have in my collection yet, it's the obsidian beetle. It lives high up in the trees. Unfortunately I'm too tiny to climb those trees. I need you to catch those amazing creatures for me, I only need 4 of them, no wait, I'll need 8. Soon my bug army will be complete!",
+		"rewardPointType": "Copper",
+		"rewardPoints": 150,
+		"isActive": true
+	},
+	{
+		"documentId": "fc49944f-89a7-4237-aefc-f60115163d89",
+		"documentType": "quest",
+		"name": "A ship of fools",
+		"description": "I'm afraid my ship's crew is made up of a bunch of fools. They managed to drop a whole load of cannonballs into the waters below. I really need those balls back, would you mind diving down and gathering them for me? Don't worry, they're not that heavy, you won't drown. I think.",
+		"rewardPointType": "Gold",
+		"rewardPoints": 171,
+		"isActive": true
+	},
+	{
+		"documentId": "577a824b-9184-4107-9b8d-de1a952e7c72",
+		"documentType": "quest",
+		"name": "Vicious Vines",
+		"description": "Nature has gone wild, everything is overgrown and it doesn't seem to be stopping. Soon all of town will be part of those vicious vines. Hero, we need you to cut through those vines and clear the village enough to prevent it from being swallowed. Something must be giving these plants more power, see if you can find its source if you can.",
+		"rewardPointType": "XP",
+		"rewardPoints": 1000,
+		"isActive": true
+	},
+	{
+		"documentId": "9b1027be-80bf-4e25-80a0-46ba97471c6e",
+		"documentType": "quest",
+		"name": "Castle motivation",
+		"description": "We have a whole lot of work left to do in order to finish this castle, but many of our works have become lazy and they lack motivation. I need somebody to motivate them and I think you're the right person for the job. Go out there and give my workers a kick in the butt. Not literally of course, that would hurt them. Just make sure they remember what we're working on, that should ignite their inspiration again. If not, well, I guess a real kick in butt might be needed for some.",
+		"rewardPointType": "XP",
+		"rewardPoints": 50,
+		"isActive": true
+	},
+	{
+		"documentId": "02c9f1db-00f1-468b-995b-afc8d1467af1",
+		"documentType": "quest",
+		"name": "Dry Spell",
+		"description": "We've been struck by a dry spell, no rain has touched our lands for months and we're starting to feel its toll. Many of us are already too weak to do any real work and I'm afraid our first death will occur in a matter of days. Hero, please join me to the water pools, they're our last hope. If we bring 4 donkeys who should be able to carry plenty of water to at least save us for a while.",
+		"rewardPointType": "XP",
+		"rewardPoints": 225,
+		"isActive": true
+	},
+	{
+		"documentId": "285b7d51-a4a0-40fc-be48-4b8e8da79218",
+		"documentType": "quest",
+		"name": "Ill husband",
+		"description": "My husband has fallen ill, he won't wake up no matter what I do. I believe we need to make him drink tea brewed from silverleaf, but they only grow higher up the mountain and I cannot leave my husband's side. Please, hero, gather a handful of silverleaf as quick as you can.",
+		"rewardPointType": "Gold",
+		"rewardPoints": 75,
+		"isActive": true
+	},
+	{
+		"documentId": "751f16d3-ea20-4186-8feb-d2b19b278dcb",
+		"documentType": "quest",
+		"name": "Secret pie recipe",
+		"description": "My family is coming over in 2 days and I want to make them my secret recipe pie, unfortunately I need a few more ingredients to make it. I need you to get me some flour, a couple of eggs, some spiderlegs, half a dozen beetle husks and a cup of sugar. Oh this cake is going to be amazing! You can have a piece if you'd like.",
+		"rewardPointType": "Gold",
+		"rewardPoints": 40,
+		"isActive": true
+	},
+	{
+		"documentId": "1ab03967-9633-44d1-9689-618f87963f0a",
+		"documentType": "quest",
+		"name": "Justice to monsters",
+		"description": "We've had a feud with a neighboring village for years and I will not deny both sides share some blame, but they have gone too far now. Last week they came in the night, killed some of our most skilled people and left. Hero, we need your help to bring justice to those ugly monsters. If you think you'll need any help, I'm willing to come along.  Be warry hero, they're stronger than they look those monsters. I'm not asking you to kill all of them, just make sure you do what I ask of you.",
+		"rewardPointType": "Gold",
+		"rewardPoints": 300,
+		"isActive": true
+	}
+]
